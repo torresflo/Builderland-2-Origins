@@ -1,6 +1,6 @@
 {
 "companyName": "Les Tartines Mousseuses",
-"productName": "Builderland 2: Origins",
+"productName": "Builderland-2-Origins",
 "dataUrl": "Build_WebGL.data.unityweb",
 "wasmCodeUrl": "Build_WebGL.wasm.code.unityweb",
 "wasmFrameworkUrl": "Build_WebGL.wasm.framework.unityweb",
