@@ -48,7 +48,9 @@ Keyboard controls:
 
 ## Installation
 
-You can grab the original version of the game for Windows (x86) on [itch.io](https://builderland2origins.itch.io/thegame).
+Download the last build for Windows (Unity 2018) [here](https://github.com/torresflo/Builderland-2-Origins/releases/tag/v1.0), unzip it, and play!
+
+You can also download the original version of the game (released in 2015 for the Game Jam) on [itch.io](https://builderland2origins.itch.io/thegame).
 
 ## Screenshots
 
