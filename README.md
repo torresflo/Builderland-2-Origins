@@ -7,11 +7,11 @@
   <h1 align="center">Builderland 2: Origins</h3>
 
   <p align="center">
-    Builderland 2: Origins is the winner game of the Retro Game Jam 2015.
+    Builderland 2: Origins is the winner game of the <a href="https://itch.io/jam/retro-game-jam-2015">Retro Game Jam 2015</a>.
     <br />
     Sequel of Builderland, a game from Loriciel released in 1990. 
     <br />
-    Done by Alexandre Lecomte, Pierre Planeau and Florian Torres.
+    Done by Alexandre Lecomte, <a href="https://github.com/neovoxel">Pierre Planeau</a> and <a href="https://github.com/torresflo">Florian Torres</a>.
     <br />
   </p>
 </p>
