@@ -59,7 +59,7 @@ You can also download the original version of the game (released in 2015 for the
 ![title-screen](./docs/img/1.jpg)
 ![first-level](./docs/img/2.jpg) \
 ![third-level](./docs/img/3.jpg)
-![fourth-level](./docs/img/4.jpg) \
+![fourth-level](./docs/img/4.jpg)
 
 <!-- LICENSE -->
 ## License
